@@ -1,0 +1,1 @@
+"E:\ffmpeg\bin\ffmpeg.exe" -i merged_1.ts -map 0 -c copy output.mp4
